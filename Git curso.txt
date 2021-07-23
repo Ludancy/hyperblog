@@ -1,0 +1,12 @@
+git init
+git status = status
+git add historia.txt
+git commit -m "MENSAJE"
+git diff = comparar
+
+ELIMINAR CAMBIOS
+git rm historia.txt
+CAMBIOS EN LA RAM NO ESTA GUARDADO EN LA BASE DE DATOS
+git rm --cached historia.txt
+
+esc+shift+z+z
