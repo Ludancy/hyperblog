@@ -1,6 +1,6 @@
 body{
     color: #333;
- font-family: 'Arial';
+ font-family: 'Times New Roman', Times, serif;
  text-align: left;
 }
 #container{
@@ -9,6 +9,7 @@ padding: 1em;
 text-align: left;
 border: 1px solid #000;
 margin: 0 auto;
+
 }
 
 #container h1{
